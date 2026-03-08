@@ -79,7 +79,7 @@ export default function TodasView() {
           animate={{ opacity: 1 }}
           transition={{ duration: 0.8, delay: 1.6 }}
         >
-          ✦ Atte. Xander El Fahter ✦
+          ✦ Atte. Xander El Father ✦
         </motion.p>
 
       </div>
