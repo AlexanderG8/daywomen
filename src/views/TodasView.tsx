@@ -3,11 +3,11 @@ import { motion } from 'framer-motion';
 
 // Posiciones fijas para que no varíen entre renders
 const STARS = [
-  { left: '8%',  top: '12%', size: '1rem',  delay: 0.0 },
+  { left: '8%', top: '12%', size: '1rem', delay: 0.0 },
   { left: '20%', top: '70%', size: '0.7rem', delay: 0.6 },
   { left: '35%', top: '18%', size: '1.2rem', delay: 1.1 },
   { left: '55%', top: '80%', size: '0.8rem', delay: 0.3 },
-  { left: '68%', top: '10%', size: '1rem',  delay: 0.9 },
+  { left: '68%', top: '10%', size: '1rem', delay: 0.9 },
   { left: '80%', top: '55%', size: '0.7rem', delay: 0.4 },
   { left: '90%', top: '25%', size: '1.1rem', delay: 1.4 },
   { left: '12%', top: '45%', size: '0.6rem', delay: 0.7 },
@@ -79,7 +79,7 @@ export default function TodasView() {
           animate={{ opacity: 1 }}
           transition={{ duration: 0.8, delay: 1.6 }}
         >
-          ✦ 8 de Marzo ✦
+          ✦ Atte. Xander El Fahter ✦
         </motion.p>
 
       </div>
